@@ -1,0 +1,19 @@
+C:\Belgelerim\Coding\C#\Visual Projelerim\OgrKayit\OgrKayit\bin\Debug\OgrKayit.exe.config
+C:\Belgelerim\Coding\C#\Visual Projelerim\OgrKayit\OgrKayit\bin\Debug\OgrKayit.exe
+C:\Belgelerim\Coding\C#\Visual Projelerim\OgrKayit\OgrKayit\bin\Debug\OgrKayit.pdb
+C:\Belgelerim\Coding\C#\Visual Projelerim\OgrKayit\OgrKayit\obj\Debug\OgrKayit.csprojAssemblyReference.cache
+C:\Belgelerim\Coding\C#\Visual Projelerim\OgrKayit\OgrKayit\obj\Debug\OgrKayit.Form1.resources
+C:\Belgelerim\Coding\C#\Visual Projelerim\OgrKayit\OgrKayit\obj\Debug\OgrKayit.Properties.Resources.resources
+C:\Belgelerim\Coding\C#\Visual Projelerim\OgrKayit\OgrKayit\obj\Debug\OgrKayit.csproj.GenerateResource.cache
+C:\Belgelerim\Coding\C#\Visual Projelerim\OgrKayit\OgrKayit\obj\Debug\OgrKayit.csproj.CoreCompileInputs.cache
+C:\Belgelerim\Coding\C#\Visual Projelerim\OgrKayit\OgrKayit\obj\Debug\OgrKayit.exe
+C:\Belgelerim\Coding\C#\Visual Projelerim\OgrKayit\OgrKayit\obj\Debug\OgrKayit.pdb
+C:\Belgelerim\Coding\C Sharp\Visual Projelerim\OgrKayit\OgrKayit\bin\Debug\OgrKayit.exe.config
+C:\Belgelerim\Coding\C Sharp\Visual Projelerim\OgrKayit\OgrKayit\bin\Debug\OgrKayit.exe
+C:\Belgelerim\Coding\C Sharp\Visual Projelerim\OgrKayit\OgrKayit\bin\Debug\OgrKayit.pdb
+C:\Belgelerim\Coding\C Sharp\Visual Projelerim\OgrKayit\OgrKayit\obj\Debug\OgrKayit.Form1.resources
+C:\Belgelerim\Coding\C Sharp\Visual Projelerim\OgrKayit\OgrKayit\obj\Debug\OgrKayit.Properties.Resources.resources
+C:\Belgelerim\Coding\C Sharp\Visual Projelerim\OgrKayit\OgrKayit\obj\Debug\OgrKayit.csproj.GenerateResource.cache
+C:\Belgelerim\Coding\C Sharp\Visual Projelerim\OgrKayit\OgrKayit\obj\Debug\OgrKayit.csproj.CoreCompileInputs.cache
+C:\Belgelerim\Coding\C Sharp\Visual Projelerim\OgrKayit\OgrKayit\obj\Debug\OgrKayit.exe
+C:\Belgelerim\Coding\C Sharp\Visual Projelerim\OgrKayit\OgrKayit\obj\Debug\OgrKayit.pdb
